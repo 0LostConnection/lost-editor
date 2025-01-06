@@ -1,4 +1,4 @@
-TARGET = led
+TARGET = led.out
 CC = gcc
 CFLAGS = -Wall -Wextra -pedantic -std=c99
 
